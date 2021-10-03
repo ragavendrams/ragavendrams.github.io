@@ -78,7 +78,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/r-madhavaraoh-santhur"
-    - label: "EMail"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ragavendra.madhavaraohsanthur@gmail.com"
 

@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Ragavendra Madhavaraoh"
-  avatar : "/assets/images/bio-photo1.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Software Engineer, <br> Deep Learning Enthusiast, <br> Embedded Systems"
   links:
     - label: "GitHub"
